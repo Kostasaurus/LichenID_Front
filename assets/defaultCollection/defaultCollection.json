@@ -1,0 +1,100 @@
+{
+  "samples": [
+    {
+      "name": "LF-2024-001",
+      "id": "LF-2024-001",
+      "scientificName": "Cladonia rangiferina",
+      "genus": "Cladonia",
+      "commonName": "Олений мох",
+      "collectionDate": "2024-06-10",
+      "collectionDateFormatted": "10.06.2024",
+      "location": "Ленинградская область, Приозерский район, окрестности озера Вуокса",
+      "habitat": "Сосновый лес на песчаной почве",
+      "status": "identified",
+      "description": "Кустистый лишайник серовато-белого цвета, образующий обширные дерновинки.",
+      "substrate": "Почва, песок",
+      "notes": "Обычный вид для данного биотопа.",
+      "photos": [
+        "https://debc8c5c-4ab1-4f39-a7c5-2009c8226894.selstorage.ru/common/cladonia_001.png"
+      ]
+    },
+    {
+      "name": "LF-2024-002",
+      "id": "LF-2024-002",
+      "scientificName": "Usnea barbata",
+      "commonName": "Уснея бородатая",
+      "collectionDate": "2024-07-05",
+      "collectionDateFormatted": "05.07.2024",
+      "location": "Республика Карелия, окрестности города Сортавала",
+      "habitat": "Хвойный лес, на ветвях ели",
+      "status": "identified",
+      "description": "Кустистый свисающий лишайник, зеленовато-серый, с жесткими веточками.",
+      "substrate": "Ветви ели европейской (Picea abies)",
+      "notes": "Собран с нижних ветвей старой ели. Хорошо развитые экземпляры.",
+      "photos": [
+        "https://debc8c5c-4ab1-4f39-a7c5-2009c8226894.selstorage.ru/common/usnea_001.png"
+      ]
+    },
+    {
+      "name": "LF-2024-003",
+      "id": "LF-2024-003",
+      "scientificName": "Xanthoria parietina",
+      "commonName": "Ксантория настенная",
+      "collectionDate": "2024-08-01",
+      "collectionDateFormatted": "01.08.2024",
+      "location": "Московская область, Одинцовский район, окрестности санатория",
+      "habitat": "Лиственный лес, на коре осины",
+      "status": "pending",
+      "description": "Листоватый лишайник ярко-оранжевого цвета с розетковидными слоевищами.",
+      "substrate": "Кора осины (Populus tremula)",
+      "notes": "Требуется подтверждение вида. Возможно, собран с антропогенно нарушенного участка.",
+      "photos": [
+        "https://debc8c5c-4ab1-4f39-a7c5-2009c8226894.selstorage.ru/common/xanthoria_001.png"
+      ]
+    },
+    {
+      "name": "LF-2024-004",
+      "id": "LF-2024-004",
+      "scientificName": "Parmelia sulcata",
+      "commonName": "Пармелия бороздчатая",
+      "collectionDate": "2024-06-25",
+      "collectionDateFormatted": "25.06.2024",
+      "location": "Тверская область, Нелидовский район, лес около деревни Земцы",
+      "habitat": "Смешанный лес, на коре березы",
+      "status": "identified",
+      "description": "Листоватый лишайник серо-зеленого цвета с сетчатым рисунком на поверхности.",
+      "substrate": "Кора березы повислой (Betula pendula)",
+      "notes": "Образец с хорошо развитыми соредиями.",
+      "photos": [
+        "https://debc8c5c-4ab1-4f39-a7c5-2009c8226894.selstorage.ru/common/parmelia_001.png"
+      ]
+    },
+    {
+      "name": "LF-2024-005",
+      "id": "LF-2024-005",
+      "scientificName": "Peltigera canina",
+      "commonName": "Пельтигера собачья",
+      "collectionDate": "2024-07-20",
+      "collectionDateFormatted": "20.07.2024",
+      "location": "Псковская область, Печорский район, луг около Изборска",
+      "habitat": "Заливной луг, на почве среди мхов",
+      "status": "unknown",
+      "description": "Листоватый лишайник крупного размера, с нижней поверхностью, покрытой жилками.",
+      "substrate": "Почва, мох",
+      "notes": "Вид требует уточнения, возможно, Peltigera polydactylon. Проводятся тесты.",
+      "photos": [
+        "https://debc8c5c-4ab1-4f39-a7c5-2009c8226894.selstorage.ru/common/peltigera_001.png"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalSamples": 5,
+    "totalGenera": 5,
+    "totalSpecies": 5,
+    "identified": 3,
+    "pending": 1,
+    "unknown": 1,
+    "locations": 5,
+    "lastUpdated": "2025-02-16T15:30:00Z"
+  }
+}

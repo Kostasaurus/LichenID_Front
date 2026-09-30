@@ -1,0 +1,112 @@
+@theme {
+    --animate-float: float 6s ease-in-out infinite;
+    --animate-float-slow: float 20s linear infinite;
+    --animate-pulse-slow: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --animate-gradient: gradient 20s ease infinite;
+    --animate-gradient-fast: gradient 8s ease infinite;
+    --animate-twinkle: twinkle 3s ease-in-out infinite;
+    --animate-firefly: firefly 3s ease-in-out infinite;
+    --animate-morph: morph 12s ease-in-out infinite;
+    --animate-progress-glow: progressGlow 2s ease-in-out infinite alternate;
+    --animate-fade-in-up: fadeInUp 0.6s ease forwards;
+    --animate-slide-in-left: slideInLeft 0.5s ease forwards;
+    --animate-slide-in-right: slideInRight 0.5s ease forwards;
+
+    /* Keyframes */
+    @keyframes float {
+        0%, 100% {
+            transform: translateY(0) translateX(0);
+        }
+        50% {
+            transform: translateY(-50px) translateX(50px);
+        }
+    }
+
+    @keyframes gradient {
+        0%, 100% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+    }
+
+    @keyframes twinkle {
+        0%, 100% {
+            opacity: 1;
+        }
+        50% {
+            opacity: 0.7;
+        }
+    }
+
+    @keyframes firefly {
+        0%, 100% {
+            opacity: 0.3;
+        }
+        50% {
+            opacity: 0.8;
+        }
+    }
+
+    @keyframes morph {
+        0% {
+            border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+            transform: rotate(0deg);
+        }
+        50% {
+            border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+            transform: rotate(180deg);
+        }
+        100% {
+            border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+            transform: rotate(360deg);
+        }
+    }
+
+    @keyframes progressGlow {
+        0% {
+            background-position: 0% 50%;
+        }
+        100% {
+            background-position: 100% 50%;
+        }
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes slideInLeft {
+        from {
+            opacity: 0;
+            transform: translateX(-30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes slideInRight {
+        from {
+            opacity: 0;
+            transform: translateX(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    /* Transition Timing Functions */
+    --ease-mystic: cubic-bezier(0.4, 0, 0.2, 1);
+    --ease-smooth: cubic-bezier(0.65, 0, 0.35, 1);
+}

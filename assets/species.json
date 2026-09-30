@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Alectoria sarmentosa",
+    "description": "Кустистый лишайник с длинными, свисающими веточками, растёт на ветвях хвойных деревьев.",
+    "family": "Parmeliaceae",
+    "genus": "Alectoria",
+    "substrate": "кора",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Bryoria fremontii",
+    "description": "Чёрно-коричневый кустистый лишайник, часто встречается в горных лесах.",
+    "family": "Parmeliaceae",
+    "genus": "Bryoria",
+    "substrate": "кора",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Caloplaca marina",
+    "description": "Накипной лишайник ярко-жёлтого или оранжевого цвета, обитает на прибрежных скалах.",
+    "family": "Teloschistaceae",
+    "genus": "Caloplaca",
+    "substrate": "камень",
+    "thallusType": "накипной"
+  },
+  {
+    "name": "Candelariella aurella",
+    "description": "Мелкий накипной лишайник с жёлто-зелёными апотециями, часто на бетоне и известняке.",
+    "family": "Candelariaceae",
+    "genus": "Candelariella",
+    "substrate": "камень",
+    "thallusType": "накипной"
+  },
+  {
+    "name": "Cetraria islandica",
+    "description": "Исландский мох, кустистый лишайник бурого цвета, используется в медицине.",
+    "family": "Parmeliaceae",
+    "genus": "Cetraria",
+    "substrate": "почва",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Cladonia arbuscula",
+    "description": "Один из видов ягеля, светло-серый кустистый лишайник, растёт на песчаных почвах.",
+    "family": "Cladoniaceae",
+    "genus": "Cladonia",
+    "substrate": "почва",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Cladonia coniocraea",
+    "description": "Небольшой лишайник с тонкими подециями, часто на гниющей древесине.",
+    "family": "Cladoniaceae",
+    "genus": "Cladonia",
+    "substrate": "древесина",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Cladonia fimbriata",
+    "description": "Чешуйчато-кустистый лишайник с бокальчатыми подециями, на почве и пнях.",
+    "family": "Cladoniaceae",
+    "genus": "Cladonia",
+    "substrate": "почва",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Cladonia rangiferina",
+    "description": "Олений мох, серовато-белый кустистый лишайник, основной корм северных оленей.",
+    "family": "Cladoniaceae",
+    "genus": "Cladonia",
+    "substrate": "почва",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Cladonia stellaris",
+    "description": "Светлый кустистый лишайник с почти сферическими подециями, образует сплошные ковры.",
+    "family": "Cladoniaceae",
+    "genus": "Cladonia",
+    "substrate": "почва",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Collema flaccidum",
+    "description": "Студенистый листоватый лишайник тёмно-зелёного цвета, обитает на замшелых скалах.",
+    "family": "Collemataceae",
+    "genus": "Collema",
+    "substrate": "камень",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Flavoparmelia caperata",
+    "description": "Жёлто-зелёный листоватый лишайник, часто на коре деревьев и древесине.",
+    "family": "Parmeliaceae",
+    "genus": "Flavoparmelia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Hypogymnia physodes",
+    "description": "Пузырчатка, листоватый лишайник с вздутыми лопастями, растёт на коре и ветвях.",
+    "family": "Parmeliaceae",
+    "genus": "Hypogymnia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Lecanora carpinea",
+    "description": "Накипной лишайник с серовато-белым слоевищем, на коре лиственных деревьев.",
+    "family": "Lecanoraceae",
+    "genus": "Lecanora",
+    "substrate": "кора",
+    "thallusType": "накипной"
+  },
+  {
+    "name": "Lecanora muralis",
+    "description": "Оранжевато-серый накипной лишайник, часто на стенах и каменистых субстратах.",
+    "family": "Lecanoraceae",
+    "genus": "Lecanora",
+    "substrate": "камень",
+    "thallusType": "накипной"
+  },
+  {
+    "name": "Lepraria incana",
+    "description": "Накипной лепрозный лишайник, похож на серовато-зелёный порошок, на почве и коре.",
+    "family": "Stereocaulaceae",
+    "genus": "Lepraria",
+    "substrate": "почва",
+    "thallusType": "накипной"
+  },
+  {
+    "name": "Lobaria pulmonaria",
+    "description": "Лобария лёгочная, крупнолистоватый лишайник с сетчатым рисунком, в старовозрастных лесах.",
+    "family": "Lobariaceae",
+    "genus": "Lobaria",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Parmelia saxatilis",
+    "description": "Листоватый лишайник с сетчатым орнаментом на поверхности, на камнях и коре.",
+    "family": "Parmeliaceae",
+    "genus": "Parmelia",
+    "substrate": "камень",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Parmelia sulcata",
+    "description": "Очень обычный листоватый лишайник с соредиями на поверхности, на коре и древесине.",
+    "family": "Parmeliaceae",
+    "genus": "Parmelia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Peltigera canina",
+    "description": "Собачий лишайник, листоватый, с крупными лопастями, на почве и мхах.",
+    "family": "Peltigeraceae",
+    "genus": "Peltigera",
+    "substrate": "почва",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Peltigera membranacea",
+    "description": "Тонкий листоватый лишайник, часто с голубоватым налётом, на замшелой почве.",
+    "family": "Peltigeraceae",
+    "genus": "Peltigera",
+    "substrate": "почва",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Phaeophyscia orbicularis",
+    "description": "Листоватый лишайник тёмно-серого цвета, с соредиями, на коре и камнях.",
+    "family": "Physciaceae",
+    "genus": "Phaeophyscia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Physcia adscendens",
+    "description": "Листоватый лишайник с пальчато-рассечёнными лопастями, часто на коре.",
+    "family": "Physciaceae",
+    "genus": "Physcia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Physcia stellaris",
+    "description": "Звёздчатая фисция, листоватый лишайник с беловатыми пятнами на лопастях.",
+    "family": "Physciaceae",
+    "genus": "Physcia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Platismatia glauca",
+    "description": "Синевато-серый листоватый лишайник с волнистыми краями, на коре хвойных.",
+    "family": "Parmeliaceae",
+    "genus": "Platismatia",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Ramalina farinacea",
+    "description": "Кустистый лишайник с узкими веточками, покрытыми соралями, на коре и ветвях.",
+    "family": "Ramalinaceae",
+    "genus": "Ramalina",
+    "substrate": "кора",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Rhizocarpon geographicum",
+    "description": "Географический лишайник, накипной с жёлто-зелёным слоевищем и чёрными апотециями.",
+    "family": "Rhizocarpaceae",
+    "genus": "Rhizocarpon",
+    "substrate": "камень",
+    "thallusType": "накипной"
+  },
+  {
+    "name": "Stereocaulon paschale",
+    "description": "Кустистый лишайник с цефалодиями, напоминает маленькие деревца, на почве.",
+    "family": "Stereocaulaceae",
+    "genus": "Stereocaulon",
+    "substrate": "почва",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Umbilicaria cylindrica",
+    "description": "Листоватый лишайник, прикрепляющийся к камню центральным пучком гиф, на скалах.",
+    "family": "Umbilicariaceae",
+    "genus": "Umbilicaria",
+    "substrate": "камень",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Umbilicaria pustulata",
+    "description": "Пузырчатый лишайник с волнистым слоевищем, на силикатных скалах.",
+    "family": "Umbilicariaceae",
+    "genus": "Umbilicaria",
+    "substrate": "камень",
+    "thallusType": "листоватый"
+  },
+  {
+    "name": "Usnea dasypoga",
+    "description": "Бородатый лишайник, кустистый с длинными свисающими веточками, в лесах.",
+    "family": "Parmeliaceae",
+    "genus": "Usnea",
+    "substrate": "кора",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Usnea filipendula",
+    "description": "Нитевидная уснея, кустистый эпифит с густыми веточками, на ветвях деревьев.",
+    "family": "Parmeliaceae",
+    "genus": "Usnea",
+    "substrate": "кора",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Usnea hirta",
+    "description": "Коротковетвистый кустистый лишайник, растёт на коре и древесине.",
+    "family": "Parmeliaceae",
+    "genus": "Usnea",
+    "substrate": "кора",
+    "thallusType": "кустистый"
+  },
+  {
+    "name": "Xanthoria parietina",
+    "description": "Ксантория настенная, листоватый лишайник ярко-оранжевого цвета, на коре и камнях.",
+    "family": "Teloschistaceae",
+    "genus": "Xanthoria",
+    "substrate": "кора",
+    "thallusType": "листоватый"
+  }
+]

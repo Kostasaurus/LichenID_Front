@@ -1,0 +1,95 @@
+@theme {
+    --color-scheme: light dark;
+
+    --color-primary-50: #f0f7f3;
+    --color-primary-100: #d8e8e0;
+    --color-primary-200: #b8d1c4;
+    --color-primary-300: #8caa96;
+    --color-primary-400: #7a9c87;
+    --color-primary-500: #4a7860;
+    --color-primary-600: #3a6b52;
+    --color-primary-700: #2d4a3a;
+    --color-primary-800: #1a2c25;
+    --color-primary-900: #0c1510;
+
+    --color-secondary-50: #f8f4f3;
+    --color-secondary-100: #e9e0dc;
+    --color-secondary-200: #d4c5bf;
+    --color-secondary-300: #b8a69e;
+    --color-secondary-400: #a1887f;
+    --color-secondary-500: #5d4037;
+    --color-secondary-600: #4a332c;
+    --color-secondary-700: #3a2c28;
+    --color-secondary-800: #2a1f1c;
+    --color-secondary-900: #1a1513;
+
+    --color-accent-50: #fdf9eb;
+    --color-accent-100: #f9eec7;
+    --color-accent-200: #f2dc94;
+    --color-accent-300: #e6c158;
+    --color-accent-400: #d4b44c;
+    --color-accent-500: #b89b3d;
+    --color-accent-600: #9c8330;
+    --color-accent-700: #7a6626;
+    --color-accent-800: #5c4d1d;
+    --color-accent-900: #3d3514;
+
+    --color-mystic-50: #f5f9f8;
+    --color-mystic-100: #e8f0ee;
+    --color-mystic-200: #d8e0e3;
+    --color-mystic-300: #b8c8cc;
+    --color-mystic-400: #8a9b9e;
+    --color-mystic-500: #6a7b7e;
+    --color-mystic-600: #546e7a;
+    --color-mystic-700: #3c6b52;
+    --color-mystic-800: #2a4a3a;
+    --color-mystic-900: #1c3024;
+
+    --color-glow-50: #fffef0;
+    --color-glow-100: #fff9c7;
+    --color-glow-200: #fff394;
+    --color-glow-300: #ffe651;
+    --color-glow-400: #ffd54f;
+    --color-glow-500: #e6c158;
+    --color-glow-600: #c4a43c;
+    --color-glow-700: #9c8330;
+    --color-glow-800: #7a6626;
+    --color-glow-900: #5c4d1d;
+
+    --color-forest-deep: #0c1510;
+    --color-forest-twilight: #1c3024;
+    --color-forest-moss: #2a4a3a;
+    --color-forest-spirit: #3a6b4e;
+    --color-forest-fog: #6a7b7e;
+    --color-forest-button: #1a2f25b3;
+
+
+    /* Backdrop Filter */
+    --backdrop-filter-none: none;
+    --backdrop-filter-blur: blur(20px);
+
+    --shadow-md:
+            0 0 10px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+
+    /* Background Images */
+    --bg-gradient-twilight: linear-gradient(135deg, #1a2c25 0%, #2d4a3a 50%, #3c6b52 100%);
+    --bg-gradient-moonlight: linear-gradient(135deg, #d8e0e3 0%, #8a9b9e 50%, #4a7c5e 100%);
+    --bg-gradient-lichen: radial-gradient(circle at 30% 30%, rgba(184, 155, 61, 0.8) 0%, rgba(58, 44, 40, 0.4) 70%);
+    --bg-gradient-fog: linear-gradient(135deg, rgba(138, 155, 158, 0.15) 0%, rgba(218, 224, 227, 0.05) 100%);
+    --bg-gradient-moss: linear-gradient(135deg, #3c6b52 0%, #4a7c5e 100%);
+    --bg-gradient-bark: linear-gradient(135deg, #5d4037 0%, #3a2c28 100%);
+
+    /* Box Shadows */
+    --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    --shadow-glass-intense: 0 15px 50px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.2);
+    --shadow-glow: 0 0 20px rgba(184, 155, 61, 0.5), 0 0 40px rgba(184, 155, 61, 0.3);
+    --shadow-glow-strong: 0 0 30px rgba(184, 155, 61, 0.7), 0 0 60px rgba(184, 155, 61, 0.4);
+    --shadow-card-hover: 0 25px 50px rgba(0, 0, 0, 0.4), 0 0 30px rgba(74, 124, 94, 0.3);
+    --shadow-btn-primary: 0 4px 15px rgba(58, 107, 82, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    --shadow-btn-hover: 0 10px 30px rgba(58, 107, 82, 0.5), 0 0 20px rgba(184, 155, 61, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+
+
+    /* Font Families */
+    --font-family-display: "Cormorant Garamond", serif;
+    --font-family-body: Inter, system-ui, sans-serif;
+}
